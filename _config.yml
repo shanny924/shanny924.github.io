@@ -74,6 +74,13 @@ baseurl:
 # !! You don't need to change any of the configuration flags below !!
 #
 
+# Math equation
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 permalink: /:title/
 paginate_path: /page:num/
 
