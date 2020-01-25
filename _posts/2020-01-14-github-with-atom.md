@@ -1,11 +1,7 @@
 ---
 layout: post
-title: "[Github]Atom으로 작성, 수정하고 push까지"
+title: "[Github]Atom으로 Github 관리하기"
 tags: [github, atom]
----
-
-Atom으로 작성된 글
-
 ---
 
 ## Atom
