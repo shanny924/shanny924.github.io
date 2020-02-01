@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Atom으로 Github 관리하기
-category : Useful
-tag: Github
+category : [Useful]
+tag: [Github]
 ---
 
 ## Atom
