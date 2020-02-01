@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 관심이 생겨 공부하고 찾아본 것들을 기록하려고 합니다. 내 글을 보고 정보를 얻어가는 누군가가 생길 수 있게끔 노력해야지.

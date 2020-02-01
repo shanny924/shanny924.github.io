@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "[Github]Atom으로 Github 관리하기"
-tags: [github, atom]
-toc: true
+title: Atom으로 Github 관리하기
+tag: Github
 ---
 
 ## Atom
