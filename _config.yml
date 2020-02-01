@@ -1,7 +1,8 @@
 # Site Info
 title: Kim Myung Jun
 tagline: "What I'm Wondering"
-description: 
+description:
+baseurl: '/j0shuajun'
 url: https://j0shuajun.github.io
 logo: '/public/images/mj.png'
 
