@@ -2,7 +2,7 @@
 title: Kim Myung Jun
 tagline: "What I'm Wondering"
 description:
-baseurl: 
+baseurl:
 url: https://j0shuajun.github.io
 logo: '/public/images/mj.png'
 
@@ -25,8 +25,8 @@ version: 1.0.0
 # About/contact
 author:
   name: Kim Myung Jun
-  description: Be curious.
-  gravatar:  # md5 hash of your email address
+  description: 안녕하세요 김명준입니다.
+  gravatar: 393e1ed24eb8d19ea9a22ff8650123ba # md5 hash of your email address
   contact:
     # linkedin:
     instagram: https://instagram.com/dd_june6
