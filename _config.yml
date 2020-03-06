@@ -1,10 +1,10 @@
 # Site Info
-title: Kim Myung Jun
+title: Jun Seo Yeon
 tagline: "What I'm Wondering"
-description: 안녕하세요 김명준입니다.
+description: 안녕하세요 전서연입니다.
 baseurl:
-url: https://j0shuajun.github.io
-logo: '/public/images/mj.png'
+url: https://shanny924.github.io
+logo: '/public/images/shannycon.png'
 
 # Site configurations
 gems:
@@ -24,13 +24,13 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Kim Myung Jun
-  description: 안녕하세요 김명준입니다.
-  gravatar: 393e1ed24eb8d19ea9a22ff8650123ba # md5 hash of your email address
+  name: Jun Seo Yeon
+  description: 안녕하세요 전서연입니다.
+  gravatar:  265f17aa8c362a2ab48d7aecd8707ba6 #md5 hash of your email address
   contact:
     # linkedin:
-    instagram: https://instagram.com/dd_june6
-    github:    https://github.com/j0shuajun
+    instagram: https://instagram.com/tableau_viz
+    github:    https://github.com/shanny924
     # facebook:  <hide>
     # twitter:   https://twitter.com/Li_Zhihao
     # weibo:     http://weibo.com/41173780
@@ -53,7 +53,7 @@ category_page: '/blog/categories/'
 
 hero:
   image: /public/images/jeju.JPG
-  caption: by Kim Myung Jun
+  caption: 
 
 # Puglins
 mathjax: true # whether support mathjax
