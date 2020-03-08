@@ -26,7 +26,7 @@ title: 전서연
 한국에는 태블로 관련 포스팅이나 공부 자료들이 아직 별로 없다. 외국 사이트를 뒤져가며 혼자 공부하기 힘들었던 것들을 쉽게 정리할 예정인데, 내가 올린 자료들이 누군가에게 작은 도움이라도 되었으면 좋겠다는 바람이다. Tableau Desktop, Tableau DS/CA, Tableau prep, Tableau E-learning, Tableau Conference 등 태블로에 관련된 자료들을 나만의 방식으로 정리해서 올리려고 한다. 
 
 
-## 포스팅 예정 분야  
+## Interests
 
 1. Tableau + Prep
 
