@@ -15,7 +15,10 @@ title: 전서연
 이 블로그는 매일 내 잠재력을 개발하는 도구로, 내가 사랑하는 일들을 기록하는 도구로 사용할 예정이다.  
 
 
+
+
 ## PROFILE
+
 
 1. 숙명여자대학교 문헌정보학 빅데이터 분석학 전공
 
@@ -40,6 +43,8 @@ title: 전서연
 Tableau Desktop, Tableau DS/CA, Tableau prep, Tableau E-learning, Tableau Conference 등 태블로에 관련된 자료들을 나만의 방식으로 정리해서 올리려고 한다. 
 
 
+
+
 ## Interests
 
 1. Tableau + Prep
@@ -53,6 +58,7 @@ Tableau Desktop, Tableau DS/CA, Tableau prep, Tableau E-learning, Tableau Confer
 5. D3.js
 
 6. Design (PS/AI)
+
 
 
 
