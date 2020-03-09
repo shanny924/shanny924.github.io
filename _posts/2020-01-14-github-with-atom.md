@@ -156,13 +156,13 @@ tag: [자격증]
 
 ### 태블로 무료 동영상 강의 (무료)   
 
-[무료 교육 동영상](https://www.tableau.com/ko-kr/learn/training/20201) 이 링크로 들어가면 태블로의 기초적인 지식들을 충분히 습득할 수 있다.
+[무료 교육 동영상](https://www.tableau.com/ko-kr/learn/training/20201) 페이지에서는 태블로의 기초적인 지식들을 충분히 습득할 수 있다.
 정식 교육 강의의 퀄리티를 따라가지는 못하겠지만 처음 접하는 사람들이라면 여기서 제공하주는 3-5분 내외의 영상들을 보는 것만으로도 배우는 것들이 꽤 많다!   
 
 
 ### Learning Tableau (유료)
 
-[Learning Tableau](https://learningtableau.com/#courses) 링크로 들어가면 Udemy 사이트에서 제공해주는 만원대의 유료 강의 커리큘럼으로 연결된다.   
+[Learning Tableau](https://learningtableau.com/#courses) 페이지는 Udemy 사이트에서 제공해주는 만원대의 유료 강의 커리큘럼으로 연결된다.   
 
 
 ### 태블로 퍼블릭에서 발견한 교육 자료 모읍집 
