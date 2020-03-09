@@ -14,15 +14,15 @@ tag: [자격증]
 
 ### 1.Tableau Desktop Specialist 
 
->비용 : 10$ 
+비용 : 10$ 
 
->선행조건 : 없음 
+선행조건 : 없음 
 
->유효기간 : 만료되지 않음  
+유효기간 : 만료되지 않음  
 
->권장 사용기간 : 3개월     
+권장 사용기간 : 3개월     
 
->시험 시간 : 60분 
+시험 시간 : 60분 
 
 태블로 자격증 시험 중 가장 난이도가 낮으며, 태블로를 3개월 이상의 사용한 유저에게 추천되는 시험이다.
 
@@ -51,15 +51,15 @@ tag: [자격증]
 
 ### 2. Tableau Desktop Certified Associate 
 
->비용 : 25$     
+비용 : 25$     
 
->선행조건 : 없음   
+선행조건 : 없음   
 
->유효기간 : 2년
+유효기간 : 2년
 
->권장 사용기간 : 5개월   
+권장 사용기간 : 5개월   
 
->시험 시간 : 2년    
+시험 시간 : 2년    
 
 태블로 실무자와 전문가를 위해 마련된 자격증이다. 사용 기간은 5개월 이상이 권장된다. 
 태블로에서 제공하는 정식 교육 코스(유료)는 [Tableau Desktop II: 중급](https://www.tableau.com/ko-kr/learn/classroom/desktop-two) 이다. 
@@ -81,11 +81,15 @@ tag: [자격증]
 
 ### 3. Tableau Desktop Certified Professional
 
->비용 : 600$ (한화 약 720만원 ...)     
->선행조건 : 현재 자격이 유효한  Tableau Desktop Certified Associate 가 있을 것       
->유효기간 : 3년      
->권장 사용기간 : 1년        
->시험 시간 : 3시간   
+비용 : 600$ (한화 약 720만원 ...)     
+
+선행조건 : 현재 자격이 유효한  Tableau Desktop Certified Associate 가 있을 것       
+
+유효기간 : 3년      
+
+권장 사용기간 : 1년        
+
+시험 시간 : 3시간   
 
 이 자격증을 딴 사람은 주변에서 아직 보지 못했다.. 어떤 사람이 따는 건지 궁금하다.   
 태블로에서 제공하는 정식 교육 코스는 [Tableau Desktop III: 고급](https://www.tableau.com/ko-kr/learn/classroom/desktop-three) 과 [시각적 분석](https://www.tableau.com/ko-kr/learn/classroom/visual-analytics) 이다.    
