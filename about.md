@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 전 서 연 
+title: Seoyeon 
 ---      
 ### PROFILE
 
