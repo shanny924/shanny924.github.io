@@ -149,7 +149,7 @@ tag: [자격증]
 
 * **온라인 강의 (커리어별 선택)** 
 
->그래서 나같은 대학생에게 가장 현실적인 방안은 온라인 강의를 듣는 것인데, [Tableau E-learning](https://elearning-samples.tableau.com/)사이트에 들어가면 Creator (Tableau Desktop과 Prep 사용자)의 경우 한달 10$ , Explorer (Tableau Online과 Tableau Server 사용자)의 경우 5$ 의 비용을 내면 된다. 연간 결제를 원한다면 120$ 를 내야 한다.    
+>그래서 나같은 대학생에게 가장 현실적인 방안은 온라인 강의를 듣는 것인데, [Tableau E-learning](https://elearning-samples.tableau.com/)사이트에 들어가면 Creator (Tableau Desktop과 Prep 사용자)의 경우 한달 10달러, Explorer (Tableau Online과 Tableau Server 사용자)의 경우 한달 5달러 의 비용을 내면 된다. 연간 결제를 원한다면 120$ 를 내야 한다.    
 >다만, 이러닝 사이트에서는 정식 초급 교육 커리를 따라가는 것이 아니라 자신의 커리어에 맞춰서 교육 패스를 선택할 수 있는 방식으로 되어 있다. 
 모든 교육 패스에서 첫번째 대단원은 (10-15개 내외 정도의 강의) 무료 체험이 가능하다.   
 
