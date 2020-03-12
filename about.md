@@ -41,6 +41,8 @@ Tableau Desktop, Tableau Desktop Specialist/Certified Associate, Tableau prep, T
 
 ### AWARDS
 
+[Awards](http://www.sookmyung.ac.kr/sookmyungkr/1268/subview.do;jsessionid=854F5EE45376A7E6099025F7510E360B?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc29va215dW5na3IlMkY5MCUyRjEwNTc1NiUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
+
 1. 2019 공공데이터 공모전 시각화 부문 대상 행정안전부 장관상 (한국정보화진흥원)
 
 2. 2019 도서관 빅데이터 활용사례 및 아이디어 공모전 최우수상 국립중앙도서관장상 (문화체육관광부)
