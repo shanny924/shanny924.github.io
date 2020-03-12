@@ -52,7 +52,7 @@ tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: /public/images/jeju.JPG
+  image: /public/images/rainbow.JPG
   caption: [tableau public](https://public.tableau.com/profile/.83057946#!/)
 
 # Puglins
