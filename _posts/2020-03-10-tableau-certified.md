@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tableau 자격증에 대해 알아보자'
+title: '[Tableau 자격증] Tableau 자격증에 대해 알아보자'
 category : [Tableau]
 tag: [자격증]
 ---
