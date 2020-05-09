@@ -36,7 +36,6 @@ Tableau 교육 자료들을 입문자 수준에 맞춰서 알기 쉽게 설명�
 
 ### AWARDS
 
-[Awards](http://www.sookmyung.ac.kr/sookmyungkr/1268/subview.do;jsessionid=854F5EE45376A7E6099025F7510E360B?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc29va215dW5na3IlMkY5MCUyRjEwNTc1NiUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
 
 1. 2019 공공데이터 공모전 시각화 부문 대상 행정안전부 장관상 (한국정보화진흥원)
 
