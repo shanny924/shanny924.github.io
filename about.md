@@ -14,6 +14,7 @@ title: Seoyeon
 Tableau 교육 자료들을 입문자 수준에 맞춰서 알기 쉽게 설명하려고 한다.         
  한국에는 태블로 관련 포스팅이나 공부 자료들이 아직 별로 없다. 혼자 공부하기 힘들었던 것들을 쉽게 정리할 예정인데, 내가 올린 자료들이 누군가에게 작은 도움이라도 되었으면 좋겠다는 바람이다.     
 
+
 [Tableau Public](https://public.tableau.com/profile/.83057946#!/)     
 [Instagram](https://www.instagram.com/tableau_viz/)     
 [Facebook](https://www.facebook.com/profile.php?id=100006337067524)    
