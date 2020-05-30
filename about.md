@@ -19,22 +19,6 @@ Tableau 교육 자료들을 입문자 수준에 맞춰서 알기 쉽게 설명�
 [Facebook](https://www.facebook.com/profile.php?id=100006337067524)    
 
 
-### Interests
-
-1. Tableau + Prep
-
-2. Power BI
-
-3. SQL
-
-4. Hadoop
-
-5. D3.js
-
-6. Design (PS/AI)
-
-
-
 
 ### AWARDS
 
