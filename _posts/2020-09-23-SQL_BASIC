@@ -1,0 +1,167 @@
+---
+layout: post
+title: ' [SQL] # BASIC SQL '
+category : [SQL]
+tag: [배운것 정리]
+---
+
+
+# SQL Comparison Operators
+
+## 컬럼 추가 AS
+
+```sql
+SELECT year,
+       month,
+       west,
+       south,
+       west + south - 4 * year AS nonsense_column
+  FROM tutorial.us_housing_units
+```
+
+## 계산식
+
+```sql
+SELECT year,
+       month,
+       west,
+       south,
+       (west + south)/2 AS south_west_avg
+  FROM tutorial.us_housing_units
+```
+
+## 각 지역이 전체에서 차지하는 비율 계산
+
+파이썬이랑 달리 앞에서 변수 정의가 안됨 
+
+```sql
+SELECT year,
+       month,
+       west/(west + south + midwest + northeast)*100 AS west_pct,
+       south/(west + south + midwest + northeast)*100 AS south_pct,
+       midwest/(west + south + midwest + northeast)*100 AS midwest_pct,
+       northeast/(west + south + midwest + northeast)*100 AS northeast_pct
+  FROM tutorial.us_housing_units
+ WHERE year >= 2000
+```
+
+## LIKE
+
+ilike 는 대소문자 관계없이 일치하는 것 불러옴
+
+like 는 정확히 일치하는 것만 불러옴 
+
+```sql
+SELECT * 
+     from tutorial.billboard_top_100_year_end
+     where "group" ilike 'snoop%'
+```
+
+언더바 :  딱 하나의 빈 공간 
+
+```sql
+SELECT * 
+     from tutorial.billboard_top_100_year_end
+     where "artist" ilike 'dr_ke'
+```
+
+% : 와일드 (앞뒤로 어떤 숫자나 문자 올 수 있음) 
+
+어떤 단어 들어간거 찾고 싶을 땐 앞뒤에 % 무조건 붙이기 
+
+```sql
+SELECT * 
+     from tutorial.billboard_top_100_year_end
+     where "group" ilike '%Ludacris%'
+```
+
+## IN
+
+한번에 여러 연도 불러올 때 
+
+A in (B,C,D) 
+
+```sql
+SELECT *
+  FROM tutorial.billboard_top_100_year_end
+  WHERE year_rank = 1
+  AND year IN (1990,2000,2010)
+```
+
+## BETWEEN
+
+특정 연도와 연도 사이를 불러올 때 
+
+between A and B
+
+```sql
+SELECT *
+  FROM tutorial.billboard_top_100_year_end
+  WHERE year BETWEEN 1960 AND 1969
+  AND "song_name" ILIKE '%love%'
+```
+
+## OR
+
+1970년대와 1990년대에서 '캘리포니아' 글자 들어간 노래 찾기 
+
+```sql
+SELECT *
+  FROM tutorial.billboard_top_100_year_end
+  WHERE (year between 1970 and 1979 OR year between 1990 and 1999)
+  AND song_name ILIKE '%california%'
+```
+
+## 문자열은 웬만하면 홑따옴표로
+
+"%DR.DRE%" 하면 오류남. ' ' 로 감싸야 함 
+
+```sql
+SELECT *
+  FROM tutorial.billboard_top_100_year_end
+  WHERE (year < 2001 OR year > 2009)
+  and "group" ilike '%Dr. Dre%'
+```
+
+## NOT
+
+NOT 은 < > 와 함께 쓰일 수 없다 
+
+year_rank NOT > 3 대신 이렇게 
+
+```sql
+# Using NOT with < and > usually doesn't make sense
+
+SELECT *
+  FROM tutorial.billboard_top_100_year_end
+ WHERE year = 2013
+   AND year_rank <= 3
+```
+
+## ORDER BY
+
+컬럼 번호만 써서 정렬할 수 있음 (디폴트는 오름차순, DESC 쓰면 내림차순)
+
+```sql
+SELECT *
+  FROM tutorial.billboard_top_100_year_end
+ WHERE year_rank <= 3
+ ORDER BY 2, 1 DESC
+```
+
+## 주석
+
+```sql
+/*이거는 주석임*/
+-- 이것도 주석임 -- 
+```
+
+## 연습문제
+
+```sql
+SELECT * 
+  FROM tutorial.billboard_top_100_year_end
+  where year_rank between 10 and 20  --10위에서 20위 사이--
+  AND year in (1993,2003,2013) --1993,2003,2013 년도--
+  ORDER by 1,2
+```
