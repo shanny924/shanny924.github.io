@@ -14,7 +14,7 @@ tag: [자격증]
 
 ## 1.Tableau Desktop Specialist 
 
-비용 : 10$ 
+비용 : 100$ 
 
 선행조건 : 없음 
 
@@ -51,7 +51,7 @@ tag: [자격증]
 
 ## 2. Tableau Desktop Certified Associate 
 
-비용 : 25$     
+비용 : 250$     
 
 선행조건 : 없음   
 
@@ -81,7 +81,7 @@ tag: [자격증]
 
 ## 3. Tableau Desktop Certified Professional
 
-비용 : 600$ (한화 약 720만원 ...)     
+비용 : 600$     
 
 선행조건 : 현재 자격이 유효한  Tableau Desktop Certified Associate 가 있을 것       
 
@@ -90,8 +90,7 @@ tag: [자격증]
 권장 사용기간 : 1년        
 
 시험 시간 : 3시간   
-
-이 자격증을 딴 사람은 주변에서 아직 보지 못했다.. 어떤 사람이 따는 건지 궁금하다.   
+ 
 태블로에서 제공하는 정식 교육 코스는 [Tableau Desktop III: 고급](https://www.tableau.com/ko-kr/learn/classroom/desktop-three) 과 [시각적 분석](https://www.tableau.com/ko-kr/learn/classroom/visual-analytics) 이다.    
 
 각각의 교육내용은 다음과 같다.    
@@ -119,9 +118,9 @@ tag: [자격증]
 또 특정 질문에 답변하기 위한 효과적인 차트가 뭘까? 이런 고민을 대시보드 만들면서 정말 많이 했었는데 내가 배우고 싶은 것들이 다 들어가 있는 느낌이다. 
    
 # 시험 신청   
-시험 접수는 [Loyalist Exam Services (LES)](https://tableau.lcsexams.com/)에서 받으며 해당 링크에서 로그인 후 100$를 결제하고 시험을 볼 수 있다. 1시간 단위로 신청이 가능하며, 24시간 전까지는 리스케줄링이 가능하다고 한다.   
+시험 접수는 [Loyalist Exam Services (LES)](https://tableau.lcsexams.com/)에서 받으며 해당 링크에서 로그인 후 먼저 결제한 뒤시험 스케줄을 잡을 수 있다. 1시간 단위로 신청이 가능하며, 24시간 전까지는 리스케줄링이 가능하다.  
 
-시험은 윈도우 가상머신에서 진행된다고 한다. 시험 시간이 되면 실시간으로 감독관에게 랩탑 카메라로 주변을 확인시켜주어야 한다. 다음과 같은 사항들을 체크한다.   
+시험은 윈도우 가상머신에서 진행된다. 시험 시간이 되면 실시간으로 감독관에게 랩탑 카메라로 주변을 확인시켜주어야 한다. 다음과 같은 사항들을 체크한다.   
    
 >여권 확인   
 >시험 공간 360도 확인   
@@ -146,11 +145,10 @@ tag: [자격증]
 ### 라이브 가상 강의 (자격증용 정식 커리큘럼) 
 
 >온라인 라이브 방송으로 진행되는 듯 하다. 태평양 표준시에 맞춰 온라인으로 등록한 강의를 들으면 되고, 보통 4일 동안 3시간 정도 진행한다. 
->근데 이 가상 강의가 Desktop 초급 강의 한 커리큘럼에 $1,400 라고 쓰여 있다. (한화 166만원..뭐지? 잘못본건가?)   
 
 ### 온라인 강의 (커리어별 선택)
 
->그래서 나같은 대학생에게 가장 현실적인 방안은 온라인 강의를 듣는 것인데, [Tableau E-learning](https://elearning-samples.tableau.com/)사이트에 들어가면 Creator (Tableau Desktop과 Prep 사용자)의 경우 한달 10달러, Explorer (Tableau Online과 Tableau Server 사용자)의 경우 한달 5달러 의 비용을 내면 된다. 연간 결제를 원한다면 120$ 를 내야 한다.      
+> 나같은 대학생에게 가장 현실적인 방안은 온라인 강의를 듣는 것인데, [Tableau E-learning](https://elearning-samples.tableau.com/)사이트에 들어가면 Creator (Tableau Desktop과 Prep 사용자)의 경우 한달 10달러, Explorer (Tableau Online과 Tableau Server 사용자)의 경우 한달 5달러 의 비용을 내면 된다. 연간 결제를 원한다면 120$ 를 내야 한다.      
 
 
 ## 태블로 공식 무료 동영상 강의 (무료)   
