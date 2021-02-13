@@ -4,7 +4,7 @@ title: Seoyeon
 ---      
 ### PROFILE
 
->AWS Business Analyst
+>AWS Business Analyst    
 >빅데이터 연합동아리 BOAZ 시각화 13기       
 >플랜잇 태블로 데이터 시각화 커뮤니티 11기  
 
